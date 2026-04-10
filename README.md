@@ -50,9 +50,9 @@ Good day! I am a developer who appreciates clean syntax and refined architecture
 
 ### 📜 The Ledger of Contributions
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://gitmystat.vercel.app/user?theme=transparent&username=Gentleburr&color=0xbb9863&accent=0x747474" width="23%" alt="GentleBurr's gitMyStat User" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GentleBurr&theme=shadow-brown&mode=weekly" width="50%" alt="GentleBurr's GitHub Streak" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://gitmystat.vercel.app/top?theme=transparent&username=Gentleburr&layout=default&color=0xbb9863&accent=0x747474" width="23%" alt="GentleBurr's gitMyStat Languages" /></a>
+  <a href="https://github.com/GentleBurr?tab=stars"><img src="https://gitmystat.vercel.app/user?theme=transparent&username=Gentleburr&color=0xbb9863&accent=0x747474" width="23%" alt="GentleBurr's gitMyStat User" /></a>
+  <a href="https://github.com/GentleBurr?tab=achievements"><img src="https://streak-stats.demolab.com?user=GentleBurr&theme=shadow-brown&mode=weekly" width="50%" alt="GentleBurr's GitHub Streak" /></a>
+  <a href="https://github.com/GentleBurr?tab=repositories"><img src="https://gitmystat.vercel.app/top?theme=transparent&username=Gentleburr&layout=default&color=0xbb9863&accent=0x747474" width="23%" alt="GentleBurr's gitMyStat Languages" /></a>
 </div>
 
 ---
